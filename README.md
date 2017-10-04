@@ -10,9 +10,28 @@ This repository will contain all learning materials needed to create our web-bas
 - AWS? / Google Cloud? / DigitalOcean?  
 - Firebase?
 
+## Our planned workflow so far
+- Learn basics of HTML and CSS
+- Learn JavaScript and its relationship with HTML
+- Learn Bootstrap and Material
+- Create our first basic website
+- Learn Angular.js
+- Improve and keep improving
+- Learn server programming to set up for front-end HTML
+- Figure out what server is best
+- Start doing whatever we want to do!
 
-## Useful Resources  
+## Useful Resources
 - https://www.w3schools.com
 - https://angular.io/tutorial
 - https://angular.io/guide/quickstart
-- https://github.com/christinakayastha/MusicalBox  
+- https://github.com/christinakayastha/MusicalBox
+- https://tonejs.github.io/
+- https://github.com/michd/step-sequencer
+- https://github.com/tophattom/sequencer
+
+## Creative Inspirations
+- https://github.com/keijiro/arpie (cool way of doing it)
+- https://github.com/vibertthio/beact (This is so trippy. I like it) 
+- http://patatap.com/
+- https://two.js.org/
