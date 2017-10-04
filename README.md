@@ -22,6 +22,7 @@ This repository will contain all learning materials needed to create our web-bas
 - Start doing whatever we want to do!
 
 ## Useful Resources
+- https://www.youtube.com/user/thenewboston (After his videos it should just be practice...)
 - https://www.w3schools.com
 - https://angular.io/tutorial
 - https://angular.io/guide/quickstart
